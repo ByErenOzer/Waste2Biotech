@@ -112,7 +112,7 @@ export default function Page() {
           controls={false}
           disablePictureInPicture
         >
-          <source src="/video/landing_page.mp4" type="video/mp4" />
+          <source src="/video/video2landing.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         
