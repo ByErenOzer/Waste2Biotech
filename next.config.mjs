@@ -24,8 +24,8 @@ const nextConfig = {
             value: 'bytes',
           },
           {
-            key: 'Content-Encoding',
-            value: 'gzip',
+            key: 'Content-Type',
+            value: 'video/mp4',
           },
         ],
       },
