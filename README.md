@@ -22,6 +22,44 @@
 
 </div>
 
+## 🎥 Video Creation with Veo3 AI
+
+The promotional video for this project was created using **Veo3 AI** with the following prompt:
+
+```json
+{
+  "description": "Cinematic photorealistic shot from soil level at sunrise. A single seed rests in rich dark soil. Tiny glowing particles (symbolizing waste-to-value transformation) flow gently into the seed. Slowly, the seed cracks open and a green sprout emerges, growing rapidly in time-lapse. Roots spread visibly through the soil like glowing threads, connecting to the environment. The sprout grows taller, forming vibrant green leaves shimmering with morning dew. The scene symbolizes biotechnology turning waste into life and sustainability.",
+  "style": "realistic",
+  "camera": "low-angle push-in from soil level, transitioning into a slow tilt upward as the sprout grows",
+  "lighting": "warm golden sunrise light, soft rays illuminating soil textures and leaf details",
+  "environment": "open agricultural field with blurred horizon, fertile soil foreground, faint morning mist",
+  "elements": [
+    "single seed in soil",
+    "glowing particles symbolizing waste-to-value",
+    "sprout emerging and growing",
+    "roots glowing under soil",
+    "dew on fresh leaves",
+    "gentle sunrise haze"
+  ],
+  "motion": "seed absorbs glowing particles, cracks open, sprout emerges and grows rapidly in smooth time-lapse, roots expand visibly, camera tilts upward following growth",
+  "ending": "a strong young plant stands tall against sunrise, leaves shimmering with dew as glowing root lines fade into soil. The text 'Waste2Biotech' gently fades in above the plant before the scene closes.",
+  "text": "Waste2Biotech",
+  "keywords": [
+    "16:9",
+    "biotechnology",
+    "sustainability",
+    "waste-to-value",
+    "plant growth",
+    "time-lapse",
+    "sunrise",
+    "photorealistic",
+    "cinematic"
+  ]
+}
+```
+
+*This video symbolizes the transformation of waste into valuable biotechnology solutions, perfectly representing our mission.*
+
 ## ✨ Key Features
 
 <div align="center">
