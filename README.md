@@ -18,10 +18,6 @@
 
 <div align="center">
 
-![Waste2Biotech Preview](https://github.com/ByErenOzer/Waste2Biotech/raw/main/public/about-images/sustainable-biotech.jpg)
-
-*Screenshot from our live application showcasing the biotechnology future*
-
 **🔗 [Visit Live Site: waste2-biotech.vercel.app](https://waste2-biotech.vercel.app/)**
 
 </div>
@@ -175,39 +171,5 @@ We welcome contributions! Here's how you can help:
 4. **Push** to the branch (`git push origin feature/AmazingFeature`)
 5. **Open** a Pull Request
 
-### 🐛 Found a Bug?
-- Open an [issue](https://github.com/ByErenOzer/Waste2Biotech/issues)
-- Describe the bug and steps to reproduce
-
-### 💡 Have an Idea?
-- Check existing [issues](https://github.com/ByErenOzer/Waste2Biotech/issues)
-- Open a new issue with your suggestion
-
-## 📄 License
-
-<div align="center">
-
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-</div>
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact & Links
-
-<div align="center">
-
-### 🌐 **[Live Application: waste2-biotech.vercel.app](https://waste2-biotech.vercel.app/)**
-
-[![GitHub](https://img.shields.io/badge/GitHub-ByErenOzer-black?style=for-the-badge&logo=github)](https://github.com/ByErenOzer)
-[![Repository](https://img.shields.io/badge/Repository-Waste2Biotech-green?style=for-the-badge&logo=github)](https://github.com/ByErenOzer/Waste2Biotech)
-[![Website](https://img.shields.io/badge/Website-Live_Demo-blue?style=for-the-badge&logo=vercel)](https://waste2-biotech.vercel.app/)
-
----
-
-### 🌱 **Waste2Biotech**
-*From waste to value, from technology to future!*
-
-**Transforming Tomorrow Through Biotechnology** ✨
 
 </div>
