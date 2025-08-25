@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Waste2Biotech Preview](https://github.com/ByErenOzer/Waste2Biotech/raw/main/public/video/video2landing.mp4)
+![Waste2Biotech Preview](https://github.com/ByErenOzer/Waste2Biotech/raw/main/public/about-images/sustainable-biotech.jpg)
 
 *Screenshot from our live application showcasing the biotechnology future*
 
