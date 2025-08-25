@@ -6,7 +6,7 @@ Waste2Biotech, atık yönetimi ve biyoteknoloji alanında yenilikçi çözümler
 
 ## 🎥 Promo Video
 
-[![Waste2Biotech Promo Video](https://github.com/ByErenOzer/Waste2Biotech/raw/main/public/video/video2landing.mp4)](https://github.com/ByErenOzer/Waste2Biotech/raw/main/public/video/video2landing.mp4)
+[![Waste2Biotech Promo Video](https://github.com/ByErenOzer/Waste2Biotech/blob/main/public/video/video2landing.mp4)](https://github.com/ByErenOzer/Waste2Biotech/blob/main/public/video/video2landing.mp4)
 
 *Video Veo3 AI ile oluşturulmuştur*
 
