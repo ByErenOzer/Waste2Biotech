@@ -106,15 +106,6 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-### 🌐 Live Demo
-
-**🔗 [Visit Live Application: waste2-biotech.vercel.app](https://waste2-biotech.vercel.app/)**
-
-<div align="center">
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ByErenOzer/Waste2Biotech)
-
-</div>
 
 ## 📁 Project Structure
 
